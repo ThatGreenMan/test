@@ -1,0 +1,65 @@
+{
+	"myFavBooks": {
+
+		"book1": {
+			"Title": "Skulduggery Pleasant (Series)",
+			"Author": "Derek Landy",
+			"Released": "2007 - Present"
+		},
+		"book2": {
+			"Title": "Demon Road (Series)",
+			"Author": "Derek Landy",
+			"Released": "2015 - 2016"
+		},
+		"book3": {
+			"Title": "Children of Time",
+			"Author": "Adrian Tchaikovsky",
+			"Released": "2015"
+		},
+		"book4": {
+			"Title": "Chaos Walking (Series)",
+			"Author": "Patrick Ness",
+			"Released": "2008 – 2010"
+		},
+		"book5": {
+			"Title": "More Than This",
+			"Author": "Patrick Ness",
+			"Released": "2013"
+		},
+		"book6": {
+			"Title": "The Rest of Us Just Live Here",
+			"Author": "Patrick Ness",
+			"Released": "2015"
+		},
+		"book7": {
+			"Title": "Jurassic Park",
+			"Author": "Michael Chrichton",
+			"Released": "1990"
+		},
+		"book8": {
+			"Title": "Dragon Teeth",
+			"Author": "Michael Chrichton",
+			"Released": "2017 (Posthumous)"
+		},
+		"book9": {
+			"Title": "The Disaster Artist",
+			"Author": "Greg Sestero",
+			"Released": "2013"
+		},
+		"book10": {
+			"Title": "Plugged",
+			"Author": "Eoin Colfer",
+			"Released": "2011"
+		},
+		"book11": {
+			"Title": "A Song of Ice and Fire (Series)",
+			"Author": "George R. R. Martin",
+			"Released": "1996 – present"
+		},
+		"book12": {
+			"Title": "Neverwhere",
+			"Author": "Neil Gaiman",
+			"Released": "1996"
+		}
+	}
+}
