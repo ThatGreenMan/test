@@ -1,0 +1,55 @@
+{
+	"myFavFilms": {
+
+		"film1": {
+			"Title": "Paranorman",
+			"Director": "Sam Fell, Chris Butler",
+			"Released": "2012"
+		},
+		"film2": {
+			"Title": "Spider-Man: Enter the Spider-Verse",
+			"Director": "Bob Perichetti, Peter Ramsey, Rodney Rothman",
+			"Released": "2018"
+		},
+		"film3": {
+			"Title": "Kubo and the Two Strings",
+			"Director": "Travis Knight",
+			"Released": "2016"
+		},
+    "film4": {
+      "Title": "Princess Mononoke",
+      "Director": "Hayao Miyazaki",
+      "Released": "1997"
+    },
+    "film5": {
+      "Title": "Ghost in the Shell",
+      "Director": "Mamoru Oshii",
+      "Released": "1995"
+    },
+    "film6": {
+      "Title": "Spirited Away",
+      "Director": "Hayao Miyazaki",
+      "Released": "2001"
+    },
+    "film7": {
+      "Title": "The Incredibles",
+      "Director": "Brad Bird",
+      "Released": "2004"
+    },
+    "film8": {
+      "Title": "Toy Story",
+      "Director": "John Lasseter",
+      "Released": "1995"
+    },
+    "film9": {
+      "Title": "The Lion King",
+      "Director": "Roger Allers, Rob Minkoff",
+      "Released": "1994"
+    },
+    "film10": {
+      "Title": "The Nightmare Before Christmas",
+      "Director": "Henry Selick",
+      "Released": "1993"
+    }
+	}
+}
